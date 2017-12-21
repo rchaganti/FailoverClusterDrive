@@ -6,5 +6,6 @@ Here is the module in action
 
 TODO:
 - Add support for Cluster Storage as a container
+- Add support for browsing cluster resource parameters as a container
 - Fix support for using the module on a system with RSAT-ClusteringTools and not a cluster node.
 - Add formats for better output
